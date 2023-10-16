@@ -14,7 +14,7 @@ To make an alert, call `uAlert.add(text,time,fadeTime)`
   
   `fadeTime` is the time in milliseconds that the alert spends fading out.
 
-  
+
 That's all I cba to document right now bye
 
 why is it not line breaking correctly what the frick
